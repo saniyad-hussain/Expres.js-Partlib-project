@@ -9,7 +9,7 @@
     "classnames": "^2.2.6",
     "is-empty": "^1.2.0",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.13",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-redux": "^5.1.1",
